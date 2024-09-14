@@ -77,6 +77,20 @@ int main()
     }
 
     // Function Call
+    // Credits Section
+/*
+ * Program: Conversion Tool - Binary, Octal, Decimal, and Hexadecimal
+ * Author: Mohit Lakhara
+ * GitHub: https://github.com/mohitlakhara-ind
+ * Description: A simple and interactive tool to perform conversions between 
+ *              binary, octal, decimal, and hexadecimal number systems.
+ * Date: 2024
+ *
+ * Acknowledgements:
+ * - Open-source community for invaluable guidance and resources.
+ * 
+ * License: MIT License
+ */
     printCalendar(year);
     return 0;
 }
